@@ -1,0 +1,101 @@
+	.wrapper{
+		background-color :rgb(255, 196, 214);
+		border:1px solid white;
+		width: 950px;
+		margin: 20px auto 20px auto;
+	}	
+
+	.logo{
+		margin: 10px;
+		height: 50px;
+		float: left;
+		color : Black;
+		font-family: Broadway;
+		font-size  : 40px;
+	}
+	nav{
+		width: 930px;
+		height: 30px;
+		margin: 70px 0px 0px 10px;
+		background-color: rgb(126, 196, 214);
+	}
+	nav ul {
+		padding: 2px;
+		margin: 10px;
+	}
+	nav ul li {
+		padding: 20px;
+		display: inline;
+		
+	}
+	nav ul li a{
+		text-decoration: none;
+	}
+	
+	.banner{
+		margin: 10px;
+		width: 930px;
+		height: 200px;
+		clear: both;
+	}
+	.banner img{
+		width: 930px;
+		height: 200px;
+	}
+	.content{
+		width: 650px;
+		height: 850px;
+		margin: 10px;
+		margin-top: 0px;
+		float: right;
+		text-align : justify;		
+	}
+	.table{
+	float : center;
+	font-size : 17px;
+	font-family : Times new roman;
+}
+	
+	.gambarpost{
+		float : left;
+		height: 200px;
+		width : 150px;
+		margin-right : 5px;
+		margin-top : 3px;
+		padding : 1px;
+		border : 1px solid #dddddd;
+	}
+	
+	aside{
+		float: right;
+		width: 250px;
+		height: 850px;
+		margin: 10px;
+		margin-top: 0px;
+		text-align : justify;
+		
+	}
+	aside ul {
+		padding: 2px 0px;
+		margin: 10px;
+		text-decoration: none;
+	}
+	.medsos img{
+		margin : 3px;
+		width: 30px;
+		height: 30px;
+	}
+	
+fieldset{
+		background-color : rgb(126, 196, 214);
+}
+
+footer{
+		width: 930px;
+		height: 30px;
+		color: white;
+		clear: both;
+		margin: 10px;
+		background-color: rgb(126, 196, 214);
+		text-align: center;
+	}
